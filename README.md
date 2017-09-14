@@ -20,9 +20,15 @@ npm install -g vue-cli
   
 # init a webpack project with vuxjs/template  
 vue init vuxjs/webpack vux-repo4 
+
+
 cd vux-repo4
+
 npm install  
+
 npm run dev 
+
+
 
 
 
