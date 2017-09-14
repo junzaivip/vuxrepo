@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App'
-import XTextarea from './components/FormPreview.vue'
+import FormPreview from './components/FormPreview.vue'
 import VueRouter from 'vue-router'
 
 const FastClick = require('fastclick')
@@ -12,7 +12,7 @@ const router = new VueRouter()
 
 router.map({
   '/': {
-    component: XTextarea
+    component: FormPreview
   }
 })
 
