@@ -1,5 +1,6 @@
-
 # vux-repo4
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjunzaivip%2Fvuxrepo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjunzaivip%2Fvuxrepo?ref=badge_shield)
+
 
 
 Link: https://github.com/junzaivip/vuxrepo/tree/master/vux-repo4
@@ -41,3 +42,7 @@ npm run dev
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjunzaivip%2Fvuxrepo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjunzaivip%2Fvuxrepo?ref=badge_large)
